@@ -28,7 +28,7 @@ Cada fase está en **Releases** como un `.zip` con el código, los modelos, las 
 | 3 | `fase-3-materiales` | Materiales mates y plásticos con Phong, metálicos y translúcidos con Fresnel |
 | 4 | `fase-4-animaciones` | Animaciones básicas, por keyframes y procedurales |
 | 5 | `fase-5-interacciones` | 16 piezas interactivas con anillo amarillo |
-| 6 | `fase-6-entrega-vite` | Versión entregada en el laboratorio |
+| 6 | `fase-6-entrega-lab` | Versión entregada en el laboratorio |
 | 7 | `fase-7-huesos-y-teclas` | Protagonista y mariachi con huesos, muñeca animada, teclas L, K y P |
 | 8 | `fase-8-panteon` | Panteón con sus piezas y luces, campana y tecolote animados |
 | 9 | `fase-9-transporte` | Sala de Transporte, muñeca en Juguetes y guitarra interactiva |
